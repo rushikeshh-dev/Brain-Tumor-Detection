@@ -1,8 +1,5 @@
 import React from 'react'
 import styled from 'styled-components';
-import { useState, useEffect } from 'react';
-import CloseIcon from '@mui/icons-material/Close';
-import { IconButton } from '@mui/material';
 
 const Container = styled.div`
     display:flex;
